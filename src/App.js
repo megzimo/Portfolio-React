@@ -7,6 +7,10 @@ import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 class App extends Component {
+
+  // handleClick = () => {
+  //   console.log("click")
+  // }
   render() {
     return (
       <div className="App">
@@ -14,7 +18,6 @@ class App extends Component {
         <About resumeData={resumeData}/>
         <Resume resumeData={resumeData}/>
         <Portfolio resumeData={resumeData}/>
-        {/* <ContactUs resumeData={resumeData}/> */}
         <Footer resumeData={resumeData}/>
       </div>
     );
