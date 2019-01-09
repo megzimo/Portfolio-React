@@ -13,11 +13,6 @@ let resumeData = {
           "name":"github",
           "url":"http://github.com/megzimo",
           "className":"fa fa-github"
-        },
-        {
-          "name":"email",
-          "url": "m.a.gallagher09@gmail.com",
-          "className": "fa fa-email"
         }
       ],
     "aboutme":"An educator turned programmer, I am passionate about creating beautiful and elegant applications. I have a hunger learning new languages and unraveling problems, and am constantly looking for the next puzzle to solve. A lover of board games and nature, you can find me out in my garden, hiking the green belt, or test-playing new board games.",
