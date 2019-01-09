@@ -798,7 +798,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #f0b686; }
+#contact a, #contact a:visited  { color: #fff; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -859,7 +859,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #f0b686;
+	background-color: #fff;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -901,25 +901,6 @@ call-to-action .button {
    position: relative;
    left: 18px;
    top: 17px;
-}
-
-
-/* Twitter Feed */
-#twitter {
-   margin-top: 12px;
-   padding: 0;
-}
-#twitter li {
-   margin: 6px 0px 12px 0;
-   line-height: 30px;
-}
-#twitter li span {
-   display: block;
-}
-#twitter li b a {
-   font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
-   border: none;
 }
 
 
@@ -969,6 +950,11 @@ footer .social-links {
    padding: 0;
    font-size: 30px;
 }
+
+#fa-link:hover{
+  color: #f0b686
+}
+
 footer .social-links li {
     display: inline-block;
     margin: 0;
@@ -1005,7 +991,8 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #f0b686; }
+
+#go-top a:hover { color: #f0b686; }
 
 
 /* // BUTTON WITH HOVER // */
