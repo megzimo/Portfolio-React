@@ -86,7 +86,7 @@ let resumeData = {
       {
         "name":"Reel Talk",
         "description":"A Forum for movie discussions. Built with Handebars, Javascript & MySQL with authentication through Firebase",
-        "imgurl":"images/reel-talk.jpg",
+        "imgurl":"https://imgur.com/a/NlD8DPf",
         "url": "http://reel-talk-app.herokuapp.com"
       },
       {
