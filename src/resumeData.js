@@ -15,7 +15,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"An educator turned programmer, I am passionate about creating beautiful and elegant applications. I have a hunger learning new languages and unraveling problems, and am constantly looking for the next puzzle to solve. A lover of board games and nature, you can find me out in my garden, hiking the green belt, or test-playing new board games.",
+    "aboutme":"An educator turned programmer, I am passionate about creating beautiful and elegant applications. I have a hunger for learning new languages and unraveling problems, and am constantly looking for the next puzzle to solve. A lover of board games and nature, you can find me out in my garden, hiking the green belt, or test-playing new board games.",
     "address":"Austin, TX",
     "website":"meg-gallagher.herokuapp.com",
     "education":[
