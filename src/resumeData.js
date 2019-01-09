@@ -74,26 +74,26 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Bob's Burgers Memory Jumble",
-        "description":"An interactive game meant to test your memory. Built in React with Material UI and deployed via Heroku",
-        "imgurl":"images/bbjumble.jpg",
+        "description":"An interactive memory game built in React with Material UI",
+        "imgurl":"https://i.ibb.co/4NbzkVC/bb.jpg",
         "url": "https://bobs-burgers-jumble.herokuapp.com"
       },
       {
         "name":"Reel Talk",
-        "description":"A Forum for movie discussions. Built with Handebars, Javascript & MySQL with authentication through Firebase",
-        "imgurl":"https://imgur.com/a/NlD8DPf",
+        "description":"A movie discussion forum built with Handebars, Javascript, MySQL & Firebase",
+        "imgurl":"https://i.ibb.co/BZBrLwR/reel-talk.jpg",
         "url": "http://reel-talk-app.herokuapp.com"
       },
       {
         "name":"Spirit Animal Matcher",
-        "description":"A quiz to determine what your true spirit animal is. Buit with Express and JavaScript, deployed via Heroku",  
-        "imgurl":"images/spirit_animal.png",
+        "description":"A spirit animal quiz buit with Express and JavaScript, deployed via Heroku",  
+        "imgurl":"https://i.ibb.co/cwrzywY/spirit.jpg",
         "url":"https://spirit-animal-match.herokuapp.com"
       },
       {
         "name":"Taco Time",
-        "description":"Add your very own unique taco to the menu. Built with Handlebars, MySQL, Node, Express",
-        "imgurl":"images/taco-time.jpg",
+        "description":"Build you own taco! Created with Handlebars, MySQL, Node, Express",
+        "imgurl":"https://i.ibb.co/yVFDbk6/taco.jpg",
         "url":"https://tacotime-nom.herokuapp.com/"
       }
     ]
