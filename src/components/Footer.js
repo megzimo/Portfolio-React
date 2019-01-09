@@ -3,7 +3,7 @@ export default class Footer extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <footer>
+      <footer id="connect">
       <div className="row">
       <h2>
         connect with me
